@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "344102324882",
+    "project_id": "futurechat-1e050",
+    "storage_bucket": "futurechat-1e050.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344102324882:android:fcf5fea542cf90ffddf44b",
+        "android_client_info": {
+          "package_name": "com.futurechat.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQSyr_5DzRB1o816JQIGJ7Lq4Tc0OTMV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
